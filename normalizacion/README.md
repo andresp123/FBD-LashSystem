@@ -4,11 +4,11 @@ El diccionario de datos desarrollado en este proyecto describe la estructura de 
 
 Incluye la definición detallada de las siguientes tablas:
 
-cliente
-cita
-servicio
-cita_servicio
-pago
+cliente, 
+cita, 
+servicio, 
+cita_servicio, 
+pago, 
 
 Para cada una, se especifican sus atributos, tipos de datos y restricciones, tales como claves primarias (PK), claves foráneas (FK) y restricciones de unicidad (UNIQUE).
 
